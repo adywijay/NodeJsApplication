@@ -1,0 +1,2 @@
+Modul ES6 adalah file JavaScript yang dijalankan dalam mode ketat saja. Artinya, 
+variabel atau fungsi apa pun  yang dideklarasikan dalam modul tidak akan ditambahkan secara otomatis ke cakupan global.
